@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/alison-ramos-da-silva-425b13102)](https://www.linkedin.com/in/willian-ramos-da-silva-293890221/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in//willian-ramos-da-silva-293890221)](https://www.linkedin.com/in/willian-ramos-da-silva-293890221/)
