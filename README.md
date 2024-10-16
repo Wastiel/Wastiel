@@ -1,4 +1,4 @@
-## Sejam bem-vindos ao neu mundo!
+## Sejam bem-vindos ao meu mundo!
 
 ![Gif do Desenvolvedor](https://i.gifer.com/9ZnV.gif)
 -----
